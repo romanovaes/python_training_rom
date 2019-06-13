@@ -1,1 +1,1 @@
-# python_training_rom
+# Repository for python training Romanova
